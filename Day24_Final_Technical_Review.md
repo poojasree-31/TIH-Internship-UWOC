@@ -30,6 +30,4 @@ All steps are captured in the project notebook and can be re-run end-to-end from
 - Detailed error/failure analysis to be conducted on Day 25, focused on the simulated noise-injection results (since real data yields zero errors).
 - Final report (Day 26) to clearly mention the single-condition data limitation as a scope boundary, not omit or understate it.
 
-## Mentor Corrections
 
-*(To be filled in after the actual Intern Discussion 12 / Mentor Review 8 meeting.)*
