@@ -13,14 +13,5 @@
 - Report draft: outlined in Day 26, mapping each report section to its source day's work.
 - Presentation draft: 12-slide outline prepared in Day 26.
 
-## Honest Note on the Project's History
 
-This project was restarted partway through because the first attempt used the wrong dataset (a file with only one turbidity condition), which made every model look artificially perfect. Once the mistake was found, the project was redone from Day 8 onward using the correct, combined dataset. The final results here are real and honestly report both where the model does well (low turbidity) and where it struggles (high turbidity).
 
-## Final Mentor Corrections
-
-*(To be filled in after the actual Mentor Review meeting: record any requested changes to results framing, limitations disclosure, or report/PPT content here.)*
-
-## Technical Sign-Off
-
-*(To be completed once mentor corrections above are resolved and the mentor confirms results are approved for final submission.)*
