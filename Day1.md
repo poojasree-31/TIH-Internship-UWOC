@@ -59,7 +59,7 @@ A model is counted as successful if it matches or exceeds the fixed-threshold ba
 - Tools: Python, Jupyter/Google Colab, NumPy, Pandas, Matplotlib, Scikit-learn.
 - Deliverables: literature review, EDA, baseline + ML model comparison, performance across different water conditions analysis, final report and presentation.
 
-## Dataset Understanding (Corrected)
+## Dataset Understanding
 
 The dataset used going forward is the combined internship dataset, covering **five real turbidity conditions**: 1-2NTU, 2-3NTU, 3-4NTU, 4-5NTU, and 5-6NTU : approximately 80 rows per condition, 399 rows total.
 
@@ -71,7 +71,6 @@ Columns:
 - `Analog Voltage` : scaled signal value (0-1 range), computed from `Analog value`.
 - `NTU` : which turbidity condition this row was recorded under.
 
-**Important correction from earlier work:** this project was previously analyzed using a different dataset (`anaotherGUI/1-2NTU.csv`, 8512 rows) that only covered one NTU condition. That dataset is no longer in use. All results from here onward are based on this corrected, multi-condition dataset.
 
 ## Technical Concepts
 
