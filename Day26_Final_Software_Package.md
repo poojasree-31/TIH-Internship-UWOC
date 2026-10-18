@@ -69,19 +69,4 @@ dataset.
 9. **Limitations & Future Scope**: small sample size per condition (~80 rows), data only covers 1-2 NTU through 5-6 NTU, future scope per problem statement (multi-level modulation, adaptive learning, sequence-aware decoding, embedded using it in a real system, larger datasets).
 10. **Conclusion.**
 
-## Presentation (PPT) Draft: Slide Outline
 
-1. Title slide (project, name, faculty, programme).
-2. Problem statement & motivation.
-3. Literature review summary.
-4. Dataset overview & the key data quality finding (mistake rate rising with turbidity).
-5. EDA: how clearly the two classes differ shrinking as turbidity increases.
-6. method / pipeline diagram.
-7. Model comparison table & results.
-8. The feature scaling fix that rescued SVM and MLP.
-9. performance across water conditions study results across all 5 real turbidity conditions.
-10. Error analysis findings.
-11. Limitations (sample size, NTU range) & future scope.
-12. Conclusion & thank you / questions.
-
-*(Report and PPT drafts to be created as separate final files once the remaining written content is compiled; this document provides the structure and source material mapping for both.)*
