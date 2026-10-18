@@ -43,4 +43,4 @@ Random Forest did well, close to Logistic Regression's accuracy (75% vs 76.7%), 
 | SVM | 61.7% | 0% | 0% | 0% |
 | Random Forest | 75.0% | 65.4% | 73.9% | 69.4% |
 
-With this real, multi-condition data, the models are no longer all tied at 100%, they're genuinely different from each other now. Random Forest looks like the strongest, most balanced performer so far. SVM needs more attention (likely needs tuning or scaling) before it can be considered a fair option.
+Random Forest looks like the strongest, most balanced performer so far. SVM needs more attention (likely needs tuning or scaling) before it can be considered a fair option.
