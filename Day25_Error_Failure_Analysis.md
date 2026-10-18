@@ -2,7 +2,7 @@
 
 ## Setup
 
-Now that I have real multiple-condition data, I don't need simulated noise anymore. Today I looked directly at which rows the final SVM model got wrong on the real test set, and checked for a pattern.
+Today I looked directly at which rows the final SVM model got wrong on the real test set, and checked for a pattern.
 
 ## Code used
 
