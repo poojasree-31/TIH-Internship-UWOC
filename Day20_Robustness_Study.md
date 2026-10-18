@@ -2,7 +2,7 @@
 
 ## Why I did this
 
-Back in the early version of this project, I did not have real data for different water conditions, so I had to fake it by adding random noise to pretend the water was murkier. Now that I have the correct dataset, which has real data for 5 actual turbidity levels (1-2 NTU up to 5-6 NTU), I do not need to fake anything anymore. Today I tested how the old threshold method and my new best model (SVM with scaled features) actually perform at each real NTU condition.
+Now that I have the correct dataset, which has real data for 5 actual turbidity levels (1-2 NTU up to 5-6 NTU), I do not need to fake anything anymor. Today I tested how the old threshold method and my new best model (SVM with scaled features) actually perform at each real NTU condition.
 
 ## Code used
 
