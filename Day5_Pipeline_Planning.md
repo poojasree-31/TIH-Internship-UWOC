@@ -54,4 +54,3 @@ TIH-Internship-UWOC/
 └── README.md
 ```
 
-*(Note: current repo uses a flatter structure with daily .md files and a single main notebook at the root — this template reflects the target structure to move toward as the project scales up in Week 3-4, or can remain flat if simpler is preferred and approved by the mentor.)*
