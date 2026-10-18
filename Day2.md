@@ -15,7 +15,7 @@ The corrected, combined dataset (`internship Dataset`), uploaded directly to Col
 A quick initial load confirmed:
 - 399 rows total, roughly 80 rows per turbidity condition (79 to 80 each).
 - `Binary bit S` label split: 242 rows labelled 0, 157 labelled 1 (about 61% / 39%), so the classes are a bit imbalanced.
-- Unlike an earlier (incorrect) attempt at this project that only had one-condition data, this dataset actually spans all 5 real turbidity levels the project is meant to study.
+- This dataset actually spans all 5 real turbidity levels the project is meant to study.
 
 ## Early Observation
 
@@ -26,8 +26,3 @@ Looking at the data briefly before doing any formal modeling, it was clear that 
 - With only around 80 rows per turbidity condition, the dataset is small. This will need careful, with a similar balance of 0s and 1s splitting later so each split has a fair mix of both classes and all conditions.
 - `binary bit R` must be excluded from model training, since it already reflects a prior prediction attempt and including it would leak information about the answer.
 
-## Next Steps
-
-- Do a full data quality audit (missing values, duplicates, class balance, mismatch rates by NTU condition) in Day 7-8.
-- Define the exact modeling plan and split strategy ahead of building any starting method (Day 4-13).
-- Save this early observation about `binary bit R` as a strong hint for where the real project story lies.
