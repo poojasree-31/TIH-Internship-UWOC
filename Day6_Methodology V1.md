@@ -26,10 +26,7 @@
 - Comparison table across all methods.
 - Robustness check across each NTU level. This is the main experiment of our project.
 
-**Constraints:**
 
-- Software only. No hardware work or physical data collection.
-- Everyone works on their own. We are not dividing the technical tasks among interns.
 
 ## 
 
