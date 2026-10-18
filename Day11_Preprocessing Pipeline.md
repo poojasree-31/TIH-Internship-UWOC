@@ -1,8 +1,5 @@
 # Day 11 : Splitting the Data
-
-## What's New This Time
-
-Unlike our earlier (wrong) dataset, this time we have real data from 5 different water conditions. So along with the signal value, we also turned the water condition (`NTU`) into a number from 1 to 5 (1 = clearest, 5 = murkiest), so our models can actually use water condition as an input, not just the signal value.
+We have real data from 5 different water conditions. So along with the signal value, we also turned the water condition (`NTU`) into a number from 1 to 5 (1 = clearest, 5 = murkiest), so our models can actually use water condition as an input, not just the signal value.
 
 ## Cleaning Applied
 
