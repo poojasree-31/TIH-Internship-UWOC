@@ -38,7 +38,7 @@ Logistic regression got 76.7% accuracy because it uses both the signal value and
 
 ## A Closer Look at the Trade-off
 
-Logistic regression is very precise at 90.9%. When it predicts 1, it is almost always right. But it also misses a lot of actual 1s. Its recall is only 43.5% compared to 78.3% for the threshold. So the threshold catches more 1s but also makes way more mistakes. This is something we need to discuss with our mentor. For this application, is it more important to catch every 1 bit, or to be confident when we say 1?
+Logistic regression is very precise at 90.9%. When it predicts 1, it is almost always right. But it also misses a lot of actual 1s. Its recall is only 43.5% compared to 78.3% for the threshold. So the threshold catches more 1s but also makes way more mistakes. For this application, is it more important to catch every 1 bit, or to be confident when we say 1?
 
 ## Why This Matters
 
