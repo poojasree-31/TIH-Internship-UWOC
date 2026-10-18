@@ -23,11 +23,9 @@ Raw CSV (internship Dataset, combined multi-NTU data)
 
 All steps are captured in the project notebook and can be re-run full from the raw CSV to the final saved model.
 
-## Correction Note
 
-An earlier version of this project (through Day 28 of the first attempt) was built entirely on a one-condition subset of the data (only 1-2 NTU, taken from a different file than the one the mentor actually intended). That version showed 100% accuracy for every single model, because the data had no overlap between the two classes at that one easy condition. This made it look like the project had already succeeded, but it meant the project's central question (does ML help as the water gets murkier) was never actually tested.
 
-This restart uses the correct combined dataset covering all 5 real turbidity conditions. The real results are lower (83.3% accuracy instead of 100%), but they are useful, and they actually answer the question this internship project set out to answer.
+This dataset covering all 5 real turbidity conditions. The real results are lower (83.3% accuracy instead of 100%), but they are useful, and they actually answer the question this internship project set out to answer.
 
 ## Remaining Open Questions
 
@@ -39,6 +37,4 @@ This restart uses the correct combined dataset covering all 5 real turbidity con
 - Detailed error/failure analysis to be conducted on Day 25, focused on where and why the SVM model still makes mistakes, especially at higher NTU levels.
 - Final report (Day 26) to clearly explain both the original mistake (wrong dataset used in the first attempt) and the corrected, real findings, since this honesty is part of good scientific practice.
 
-## Mentor Corrections
 
-*(To be filled in after the actual Intern Discussion / Mentor Review meeting.)*
