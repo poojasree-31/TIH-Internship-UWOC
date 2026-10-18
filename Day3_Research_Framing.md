@@ -31,6 +31,4 @@ Can supervised machine learning classifiers (Logistic Regression, SVM, Random Fo
 - **Metrics:** accuracy, precision, recall, F1, confusion matrix, BER/error rate, prediction time.
 - **Scope:** software-only; no hardware integration or physical data collection required.
 
-## Mentor Notes / Decisions
 
-*(To be filled in after the actual mentor review meeting: record any changes to target definition, dataset expectations, metrics, or scope here, and update assumptions accordingly.)*
