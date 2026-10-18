@@ -24,7 +24,7 @@ This week we found a clear winner. Once the features were scaled properly, SVM b
 - Logistic regression, even after tuning, has lower recall than SVM. It misses more real 1 bits than I would like.
 - I only tested 5 NTU conditions, from 1 to 2 up to 5 to 6. I do not know how the model would behave in even murkier water beyond that range.
 
-## Asking Mentor for the Green Light on Week 4
+
 
 Plan for Week 4:
 1. Go with SVM (with scaled features) as the final model, since it had the best accuracy, the best F1, and it got worse in the most sensible way across water conditions.
