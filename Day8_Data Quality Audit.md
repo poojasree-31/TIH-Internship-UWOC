@@ -25,8 +25,8 @@ This result is important for our project. In clear water, the simple threshold g
 
 ## Other Things We Noticed
 
-- We also have a column called `binary bit R`, which is just an old guess made using a simple cutoff method. Just like last time, we should NOT use this column to train our own models, since it's a prediction, not the real answer. We only use `Binary bit S` as the true label.
-- The dataset is quite small this time, only about 80 rows per water condition. This means our results are still useful, but not huge-scale, so we should mention this in our report.
+- We also have a column called `binary bit R`. We only use `Binary bit S` as the true label.
+- The dataset is quite small , only about 80 rows per water condition. This means our results are still useful, but not huge-scale, so we should mention this in our report.
 
 ## Cleaning Rules We're Going With
 
