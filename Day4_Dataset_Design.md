@@ -1,6 +1,6 @@
 # Day 4: Dataset Plan and Quality Checks
 
-## Expected Files, Columns, Labels & Metadata (Before Using Final Dataset)
+## Expected Files, Columns, Labels & Metadata 
 
 - **Expected columns:** received analog signal value, transmitted bit label (target), turbidity/NTU level (metadata/condition).
 - **Expected metadata:** which turbidity condition each row corresponds to, ideally covering multiple NTU levels so performance across water conditions can actually be tested.
