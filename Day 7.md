@@ -39,4 +39,4 @@ To be completed once the full dataset is loaded and checked in code. Summary sta
 
 ## Preliminary Dataset Report: Summary
 
- dataset is small (399 rows), but it covers all five turbidity conditions we need for our main question. The clearest early sign is that `binary bit R` (the existing threshold prediction) disagrees more and more with the true label `Binary bit S` as NTU goes up. This shows the threshold method getting worse, which the earlier single condition dataset could never show.
+ dataset is small (399 rows), but it covers all five turbidity conditions we need for our main question. The clearest early sign is that `binary bit R` (the existing threshold prediction) disagrees more and more with the true label `Binary bit S` as NTU goes up. This shows the threshold method getting worse
